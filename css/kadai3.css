@@ -1,0 +1,23 @@
+h1{
+    color:deeppink;
+    background-color:cyan;
+    text-align: center;
+}
+
+h2{
+    color:darkorange;
+    background-color:forestgreen;
+    text-align: center;
+}
+
+h3{
+    color:yellow;
+}
+
+p{
+    color: ghostwhite;
+}
+
+body{
+    background-image: url("../images/mono_181120_check_pg01.jpg")
+}
