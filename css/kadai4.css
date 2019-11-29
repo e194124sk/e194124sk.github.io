@@ -1,0 +1,23 @@
+h1.b{
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    color: green;
+    text-align: center;
+}
+h2.h{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+h2{
+    background-color: crimson;
+    color: cyan;
+    text-align: center;
+}
+body{
+    background-image: url("../images/Suwa-ko_firework_20080815_02.jpg")
+}
