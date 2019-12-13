@@ -1,0 +1,81 @@
+div.title{
+    width : 980px;
+    height : 40px;
+    background-color: yellow;
+    text-align: left;
+    font-size: 30px;
+    font-family:"Impact";
+    margin-bottom:20px;
+    padding-left: 20px;
+}
+
+div.syousai{
+    width : 1000px;
+    height : 320px;
+    background-color: chartreuse;
+    font-size: 0px;
+}
+
+div.hako1{
+    width : 250px;
+    height : 320px;
+    display:inline-block;
+    background-color: magenta;
+    vertical-align : top;
+    margin-right: 50px;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+div.menu2{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+div.hako2{
+    width : 700px;
+    height : 320px;
+    display:inline-block;
+    background-color: sienna;
+    vertical-align : top;
+}
+
+div.moji{
+    width: 700px;
+    height: 20px;
+    margin-top: 300px;
+    background-color: darkorange;
+    font-size: 15px;
+    
+}
+
+div.futta{
+    width: 980px;
+    height: 40px;
+    font-size: 30px;
+    margin-top: 20px;
+    background-color: orange;
+    text-align: right;
+    padding-right: 20px;
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+}
