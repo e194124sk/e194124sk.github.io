@@ -1,0 +1,29 @@
+h1.b{
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    color: green;
+    text-align: center;
+}
+h2.h{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    background-color: crimson;
+    color: cyan;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    background-color: white;
+}
+body{
+    background-image: url(../images/puc1.jpg)
+}

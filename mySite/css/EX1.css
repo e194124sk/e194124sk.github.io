@@ -1,0 +1,23 @@
+h1{
+    font-size: 45px;
+    color:darkviolet;
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h2{
+    color:coral;
+    background-color:yellow;
+    text-align: center;
+}
+
+table{
+    background-color:chartreuse;
+}
+li{
+    background-image: url("../images/55fab1f7a152e315f1cef2681ab3dca8_1449488658-480x320.jpg")
+}
+body{
+    background-image: url("../images/istockphoto-878900954-612x612.jpg")
+
+}
