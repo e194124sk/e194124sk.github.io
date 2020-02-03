@@ -1,0 +1,93 @@
+div.title{
+    width : 1000px;
+    height : 100px;
+    background-color: pink;
+    text-align: center;
+    font-size: 40px;
+    font-family:"Impact";
+    display:inline-block;
+}
+
+div.name{
+    width : 980px;
+    height : 30px;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: right;
+    margin-bottom:20px;
+    padding-right: 20px;
+}
+
+div.hako1{
+    width : 300px;
+    height : 406px;
+    background-color: white;
+    border: 5px dotted black;
+}
+
+hr{
+    margin-left: auto;
+    width: 90%
+}
+
+div.matome1{
+    width: 300px;
+    margin-bottom: 10px;
+    background-color: palegreen;
+    font-size: 30px;
+    
+}
+
+div.menu{
+    width: 300px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    font-size: 30px;
+    
+}
+
+div.matome2{
+    width: 300px;
+    margin-bottom: 10px;
+    background-color: palegreen;
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+
+div.menufin{
+    width: 300px;
+    background-color: aqua;
+    font-size: 30px;
+   
+}
+div.matomari1{
+    display:inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+
+div.matomari2{
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.matomari3{
+    display: inline-block;
+    vertical-align: bottom;
+    
+}
+    
+table{
+    width : auto;
+    display: inline-block;
+    background-color: aqua;
+}
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+}
+
+body{
+    background-image: url(../images/puc1.jpg)
+}
